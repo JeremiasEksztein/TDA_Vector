@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 
 int main()
 {
@@ -9,7 +10,7 @@ int main()
     printf("Ingrese n, numero natural, para calcular la secuencia de fibonacci hasta su n-avo paso\n");
     scanf("%d", &n);
 
-    printf("El %d-avo numero de la secuencia de fibonacci es: %d\m", fibonacci(n));
+    printf("El %d-avo numero de la secuencia de fibonacci es: %d\n", fibonacci(n));
 
     return 0;
 }

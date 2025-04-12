@@ -1,6 +1,6 @@
-#IFNDEF MAIN_H_INCLUDED
-#DEFINE MAIN_H_INCLUDED
+#ifndef MAIN_H_INCLUDED
+#define MAIN_H_INCLUDED
 
 int fibonacci(int);
 
-#ENDIF
+#endif
